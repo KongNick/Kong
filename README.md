@@ -1,2 +1,3 @@
 # Kong
-Kong Lingteng
+Lingteng Kong
+Handsome Ling
